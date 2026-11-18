@@ -86,3 +86,5 @@ footer a{display:inline-block;padding:10px 0;margin-right:20px}
 .badge{display:inline-block;line-height:0;border-radius:8px}.badge img{display:block;height:48px;width:auto}
 .ctas .badge{align-self:center}
 @media(max-width:480px){.ctas .badge{align-self:flex-start}}
+.brand{display:inline-flex;align-items:center;gap:10px;margin-top:20px;text-decoration:none;color:var(--ink);font:800 1.35rem/1 Baloo,system-ui,sans-serif}.brand img{display:block;width:40px;height:40px}
+.hero{padding-top:28px}
