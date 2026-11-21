@@ -88,3 +88,8 @@ footer a{display:inline-block;padding:10px 0;margin-right:20px}
 @media(max-width:480px){.ctas .badge{align-self:flex-start}}
 .brand{display:inline-flex;align-items:center;gap:10px;margin-top:20px;text-decoration:none;color:var(--ink);font:800 1.35rem/1 Baloo,system-ui,sans-serif}.brand img{display:block;width:40px;height:40px}
 .hero{padding-top:28px}
+
+.guide section{padding:clamp(28px,5vw,44px) 0}
+.guide ul,.guide ol{padding-left:1.3em;margin:0 0 1em}
+.guide li{margin:.5em 0}
+.guide p{max-width:42em}
